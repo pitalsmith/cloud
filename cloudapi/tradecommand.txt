@@ -1,0 +1,119 @@
+Symbol= EURUSD
+Level=1
+Direction=BUY
+Entry=1.1389
+TP=10
+SL=10
+Lot=0.02
+Status=WON
+Attempts=0
+MaxAttempts=5
+
+===============2026===================
+
+Symbol=EURUSD
+Level=2
+Direction=BUY
+Entry=1.1409
+TP=10
+SL=10
+Lot=0.02
+Status=WON
+Attempts=0
+MaxAttempts=5
+
+Symbol= EURUSD
+Level =3
+Direction=BUY
+EntryPrice=1.145
+TP=10
+SL=10
+Lotsize=0.02
+Status=READY
+Attempts=0
+MaxAttempts=5
+
+===============2026===================
+
+Symbol   = EURUSD
+Level =4
+Direction=BUY
+EntryPrice=1.15
+TP=10
+SL=10
+Lotsize=0.02
+Status=READY
+Attempts=0
+MaxAttempts=5
+
+===============2026===================
+
+Symbol  = EURUSD
+Level =5
+Direction=BUY
+EntryPrice=1.155
+TP=10
+SL=10
+Lotsize=0.02
+Status=READY
+Attempts=0
+MaxAttempts=5
+
+===============2026 SELL===================
+
+Symbol= EURUSD
+Level=1
+Direction=SELL
+Entry=1.1380
+TP=10
+SL=10
+Lot=0.02
+Status=WON
+Attempts=0
+MaxAttempts=5
+
+
+
+Symbol= EURUSD
+Level=2
+Direction=SELL
+Entry=1.14
+TP=10
+SL=10
+Lot=0.02
+Status=WON
+Attempts=0
+MaxAttempts=5
+
+Symbol= EURUSD
+Level=3
+Direction=SELL
+Entry=1.1430
+TP=10
+SL=10
+Lot=0.02
+Status=WON
+Attempts=0
+MaxAttempts=5
+
+Symbol= EURUSD
+Level=4
+Direction=SELL
+Entry=1.1440
+TP=10
+SL=10
+Lot=0.02
+Status=WON
+Attempts=0
+MaxAttempts=5
+
+Symbol= EURUSD
+Level=5
+Direction=SELL
+Entry=1.1450
+TP=10
+SL=10
+Lot=0.02
+Status=IN PROGRESS
+Attempts=0
+MaxAttempts=5
