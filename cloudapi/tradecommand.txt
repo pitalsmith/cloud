@@ -8,7 +8,7 @@ TP=10
 SL=10
 Lot=0.02
 Status=IN PROGRESS
-Nextlot=0.04
+Nextlot=0.00
 
 Symbol=EURUSD
 Level=2
@@ -18,7 +18,7 @@ TP=10
 SL=10
 Lot=0.02
 Status=IN PROGRESS
-Nextlot=0.04
+Nextlot=0.00
 
 Symbol=EURUSD
 Level=3
@@ -69,7 +69,7 @@ Entry=1.1400
 TP=10
 SL=10
 Lot=0.02
-Status=WON
+Status=READY
 Nextlot=0.00
 MaxAttempts=5
 
@@ -90,7 +90,7 @@ Entry=1.1440
 TP=10
 SL=10
 Lot=0.02
-Status=IN PROGRESS
+Status=READY
 Nextlot=0.00
 MaxAttempts=5
 
@@ -101,5 +101,5 @@ Entry=1.1450
 TP=10
 SL=10
 Lot=0.02
-Status=IN PROGRESS
+Status=READY
 Nextlot=0.00
