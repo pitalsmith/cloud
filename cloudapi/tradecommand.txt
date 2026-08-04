@@ -140,3 +140,14 @@ Lot=0.02
 Status=READY
 Attempts=0
 MaxAttempts=5
+
+Symbol= EURUSD
+Level=3
+Direction=SELL
+Entry=1.1430
+TP=10
+SL=10
+Lot=0.02
+Status=WON
+Attempts=0
+MaxAttempts=5
