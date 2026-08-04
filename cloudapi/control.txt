@@ -1,1 +1,2 @@
 Push=NO
+TelegramPull=Yes
