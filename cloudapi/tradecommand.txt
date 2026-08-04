@@ -1,56 +1,4 @@
-===============2026 BUY LEVELS===============
-
-Symbol=EURUSD
-Level=1
-Direction=BUY
-Entry=1.1389
-TP=10
-SL=10
-Lot=0.02
-Status=IN PROGRESS
-Nextlot=0.00
-
-Symbol=EURUSD
-Level=2
-Direction=BUY
-Entry=1.1409
-TP=10
-SL=10
-Lot=0.02
-Status=IN PROGRESS
-Nextlot=0.00
-
-Symbol=EURUSD
-Level=3
-Direction=BUY
-Entry=1.1450
-TP=10
-SL=10
-Lot=0.02
-Status=READY
-Nextlot=0
-
-Symbol=EURUSD
-Level=4
-Direction=BUY
-Entry=1.1500
-TP=10
-SL=10
-Lot=0.02
-Status=READY
-Nextlot=0
-
-Symbol=EURUSD
-Level=5
-Direction=BUY
-Entry=1.1550
-TP=10
-SL=10
-Lot=0.02
-Status=READY
-Nextlot=0
-
-===============2026 SELL LEVELS (UPDATED 8/4/2026)===============
+===========APPEND===============
 
 Symbol=EURUSD
 Level=1
@@ -69,7 +17,7 @@ Entry=1.1400
 TP=10
 SL=10
 Lot=0.02
-Status=READY
+Status=WON
 Nextlot=0.00
 MaxAttempts=5
 
@@ -80,7 +28,7 @@ Entry=1.1430
 TP=10
 SL=10
 Lot=0.02
-Status=READY
+Status=WON
 Nextlot=0.00
 
 Symbol=EURUSD
@@ -90,7 +38,7 @@ Entry=1.1440
 TP=10
 SL=10
 Lot=0.02
-Status=READY
+Status=WON
 Nextlot=0.00
 MaxAttempts=5
 
@@ -101,5 +49,5 @@ Entry=1.1450
 TP=10
 SL=10
 Lot=0.02
-Status=READY
+Status=WON
 Nextlot=0.00
