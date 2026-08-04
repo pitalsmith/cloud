@@ -28,7 +28,7 @@ Entry=1.1430
 TP=10
 SL=10
 Lot=0.02
-Status=WON
+Status=READY
 Nextlot=0.00
 
 Symbol=EURUSD
