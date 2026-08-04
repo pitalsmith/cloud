@@ -1,15 +1,14 @@
-Symbol= EURUSD
+===============2026 BUY LEVELS===============
+
+Symbol=EURUSD
 Level=1
 Direction=BUY
 Entry=1.1389
 TP=10
 SL=10
 Lot=0.02
-Status=WON
-Attempts=0
-MaxAttempts=5
-
-===============2026===================
+Status=IN PROGRESS
+Nextlot=0.04
 
 Symbol=EURUSD
 Level=2
@@ -18,50 +17,42 @@ Entry=1.1409
 TP=10
 SL=10
 Lot=0.02
-Status=WON
-Attempts=0
-MaxAttempts=5
+Status=IN PROGRESS
+Nextlot=0.04
 
-Symbol= EURUSD
-Level =3
+Symbol=EURUSD
+Level=3
 Direction=BUY
-EntryPrice=1.145
+Entry=1.1450
 TP=10
 SL=10
-Lotsize=0.02
+Lot=0.02
 Status=READY
-Attempts=0
-MaxAttempts=5
+Nextlot=0
 
-===============2026===================
-
-Symbol   = EURUSD
-Level =4
+Symbol=EURUSD
+Level=4
 Direction=BUY
-EntryPrice=1.15
+Entry=1.1500
 TP=10
 SL=10
-Lotsize=0.02
+Lot=0.02
 Status=READY
-Attempts=0
-MaxAttempts=5
+Nextlot=0
 
-===============2026===================
-
-Symbol  = EURUSD
-Level =5
+Symbol=EURUSD
+Level=5
 Direction=BUY
-EntryPrice=1.155
+Entry=1.1550
 TP=10
 SL=10
-Lotsize=0.02
+Lot=0.02
 Status=READY
-Attempts=0
-MaxAttempts=5
+Nextlot=0
 
-===============2026 SELL===================
+===============2026 SELL LEVELS (UPDATED 8/4/2026)===============
 
-Symbol= EURUSD
+Symbol=EURUSD
 Level=1
 Direction=SELL
 Entry=1.1380
@@ -69,85 +60,46 @@ TP=10
 SL=10
 Lot=0.02
 Status=WON
-Attempts=0
-MaxAttempts=5
+Nextlot=0.00
 
-
-Symbol= EURUSD
+Symbol=EURUSD
 Level=2
 Direction=SELL
-Entry=1.14
+Entry=1.1400
 TP=10
 SL=10
 Lot=0.02
 Status=WON
-Attempts=0
+Nextlot=0.00
 MaxAttempts=5
 
-Symbol= EURUSD
+Symbol=EURUSD
 Level=3
 Direction=SELL
 Entry=1.1430
 TP=10
 SL=10
 Lot=0.02
-Status=IN PROGRESS
-Attempts=0
-MaxAttempts=5
+Status=READY
+Nextlot=0.00
 
-Symbol= EURUSD
+Symbol=EURUSD
 Level=4
 Direction=SELL
 Entry=1.1440
 TP=10
 SL=10
 Lot=0.02
-Status=READY
-Attempts=0
+Status=IN PROGRESS
+Nextlot=0.00
 MaxAttempts=5
 
-Symbol= EURUSD
+Symbol=EURUSD
 Level=5
 Direction=SELL
 Entry=1.1450
 TP=10
 SL=10
 Lot=0.02
-Status=READY
-Attempts=0
-MaxAttempts=5
-
-=========UPDATED PRICES8/4/2026==================
-
-Symbol= EURUSD
-Level=1
-Direction=SELL
-Entry=1.1380
-TP=10
-SL=10
-Lot=0.02
-Status=READY
-Attempts=0
-MaxAttempts=5
-
-Symbol= EURUSD
-Level=3
-Direction=SELL
-Entry=1.1430
-TP=10
-SL=10
-Lot=0.02
-Status=READY
-Attempts=0
-MaxAttempts=5
-
-Symbol= EURUSD
-Level=3
-Direction=SELL
-Entry=1.1430
-TP=10
-SL=10
-Lot=0.02
-Status=WON
-Attempts=0
-MaxAttempts=5
+Status=IN PROGRESS
+Nextlot=0.00
