@@ -114,6 +114,6 @@ Entry=1.1450
 TP=10
 SL=10
 Lot=0.02
-Status=IN PROGRESS
+Status=READY
 Attempts=0
 MaxAttempts=5
