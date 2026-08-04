@@ -61,7 +61,16 @@ MaxAttempts=5
 
 ===============2026 SELL===================
 
-
+Symbol= EURUSD
+Level=1
+Direction=SELL
+Entry=1.1380
+TP=10
+SL=10
+Lot=0.02
+Status=READY
+Attempts=0
+MaxAttempts=5
 
 
 Symbol= EURUSD
@@ -115,6 +124,6 @@ Entry=1.1380
 TP=10
 SL=10
 Lot=0.02
-Status=READY
+Status=WON1
 Attempts=0
 MaxAttempts=5
