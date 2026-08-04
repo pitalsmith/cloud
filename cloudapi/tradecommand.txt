@@ -117,6 +117,8 @@ Status=READY
 Attempts=0
 MaxAttempts=5
 
+=========UPDATED PRICES8/4/2026==================
+
 Symbol= EURUSD
 Level=1
 Direction=SELL
@@ -124,6 +126,6 @@ Entry=1.1380
 TP=10
 SL=10
 Lot=0.02
-Status=WON1
+Status=READY
 Attempts=0
 MaxAttempts=5
