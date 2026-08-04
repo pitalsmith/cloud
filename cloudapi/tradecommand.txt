@@ -49,5 +49,5 @@ Entry=1.1450
 TP=10
 SL=10
 Lot=0.02
-Status=WON
+Status=READY
 Nextlot=0.00
