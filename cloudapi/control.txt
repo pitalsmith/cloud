@@ -1,2 +1,2 @@
-Push=NO
+Push=Yes
 TelegramPull=Yes
